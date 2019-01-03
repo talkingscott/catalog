@@ -1,0 +1,9 @@
+{
+    "schema-version": "1.0.0",
+    "items": [
+        {
+            "sku": 9876,
+            "description": "Product X"
+        }
+    ]
+}

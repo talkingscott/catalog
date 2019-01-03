@@ -1,0 +1,13 @@
+{
+    "schema-version": "1.0.0",
+    "items": [
+        {
+            "sku": 1234,
+            "description": "Toy Boat"
+        },
+        {
+            "sku": 4321,
+            "description": "Toy Story"
+        }
+    ]
+}

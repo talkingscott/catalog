@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\snichol\\.virtualenvs\\catalogclient-INDCZE-s\\Scripts\\python.exe",
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "*_test.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true
+}
